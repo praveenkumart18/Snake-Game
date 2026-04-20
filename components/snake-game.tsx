@@ -8,7 +8,7 @@ import { ArrowUp, ArrowDown, ArrowLeft, ArrowRight, RotateCcw, Play, Pause, Info
 const GRID_SIZE = 20
 const MAX_BOARD_SIZE = 420
 const MIN_BOARD_SIZE = 180
-const INITIAL_SPEED = 150
+const INITIAL_SPEED = 250
 const BEST_SCORE_STORAGE_KEY = "snake-best-score"
 const NORMAL_FOOD_SCORE = 5
 const NORMAL_FOOD_COUNT_FOR_BIG_FOOD = 5
